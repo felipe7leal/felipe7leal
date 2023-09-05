@@ -2,7 +2,7 @@
 
 - 📈 I’m currently working on personal projects in Data Science and Quant/Algo Trading
 
-- 📊 I’ve been learning Big Data Analytics
+- 📊 I’ve been learning Big Data Analytics, Economy, Market Trends and Investment Strategies
 
 - 😄 Pronouns: He/him; Ele/dele
 
