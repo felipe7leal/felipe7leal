@@ -4,8 +4,6 @@
 
 - 📊 I’ve been learning Big Data Analytics, Economy, Market Trends and Investment Strategies
 
-- 😄 Pronouns: He/him; Ele/dele
-
 - We can talk in Portuguese 🇧🇷 or English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 if you want to.
 
 ### Github Stats
